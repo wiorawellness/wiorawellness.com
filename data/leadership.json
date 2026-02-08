@@ -1,0 +1,24 @@
+{
+  "medical_leadership": {
+    "name": "Dr. Harshitha Mudumala",
+    "role": "Founder and Medical Lead",
+    "background": "Medical professional with experience in dermatology and aesthetic medicine",
+    "responsibilities": [
+      "Clinical oversight",
+      "Treatment planning",
+      "Medical supervision",
+      "Ethical standards enforcement"
+    ],
+    "public_profiles": {
+      "linkedin": "https://in.linkedin.com/in/harshitha-mudumala-6792ab148"
+    }
+  },
+  "care_team": [
+    "Certified dermatologists",
+    "Doctors",
+    "Skin therapists",
+    "Laser technicians",
+    "Hair specialists",
+    "Nutrition experts"
+  ]
+}
