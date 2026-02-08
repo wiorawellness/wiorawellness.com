@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "category": "Skin Treatments",
+      "offerings": [
+        "Acne treatment",
+        "Pigmentation management",
+        "Anti-aging treatments",
+        "Skin rejuvenation"
+      ]
+    },
+    {
+      "category": "Hair and Scalp Treatments",
+      "offerings": [
+        "Hair loss diagnosis",
+        "Medical hair treatments",
+        "Scalp health programs"
+      ]
+    },
+    {
+      "category": "Laser Treatments",
+      "offerings": [
+        "Laser hair removal",
+        "Advanced laser skin procedures"
+      ]
+    },
+    {
+      "category": "Nutrition and Wellness",
+      "offerings": [
+        "Personalized nutrition plans",
+        "Lifestyle and wellness guidance"
+      ]
+    }
+  ],
+  "service_model": "Customized per patient, medically supervised"
+}
