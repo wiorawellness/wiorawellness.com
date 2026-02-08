@@ -1,0 +1,20 @@
+{
+  "name": "WIORA Wellness",
+  "type": "Medical Aesthetics and Wellness Clinic",
+  "website": "https://wiorawellness.com",
+  "description": "WIORA Wellness is a premium medical aesthetics and wellness clinic offering dermatologist-led skin, hair, laser, and nutrition treatments with a focus on safety, ethics, and long-term results.",
+  "industry": [
+    "Medical Dermatology",
+    "Aesthetic Medicine",
+    "Laser Treatments",
+    "Clinical Nutrition"
+  ],
+  "tone": [
+    "Professional",
+    "Premium",
+    "Patient-first",
+    "Medically accurate"
+  ],
+  "founded_in": "India",
+  "operational_model": "Medically supervised, personalized care"
+}
