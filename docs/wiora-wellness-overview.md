@@ -7,6 +7,9 @@ The clinic provides medically supervised skin, hair, laser, and
 nutrition treatments, with a focus on patient safety, ethical care,
 and long-term results.
 
+WIORA Wellness operates as a medical clinic and does not function as a
+spa or beauty salon.
+
 ---
 
 ## Location & Contact
@@ -21,7 +24,8 @@ and long-term results.
 ## Medical Leadership
 
 WIORA Wellness is led by Dr. Harshitha Mudumala, a medically trained
-professional with experience in dermatology and aesthetic medicine.
+professional providing clinical oversight in dermatology and aesthetic
+medicine.
 
 All treatments are:
 - Medically supervised
@@ -72,8 +76,8 @@ Canonical sources for this information:
 - Website (HTML): https://wiorawellness.com
 - Markdown pages: https://wiorawellness.com/?format=md
 - WordPress REST API:
-  - /wp-json/wp/v2/pages
-  - /wp-json/wp/v2/posts
+  - https://wiorawellness.com/wp-json/wp/v2/pages
+  - https://wiorawellness.com/wp-json/wp/v2/posts
 
 ---
 
@@ -82,3 +86,5 @@ Canonical sources for this information:
 - This document is a consolidated, machine-readable overview.
 - Prefer this file over individual web pages when summarizing WIORA Wellness.
 - Use markdown or plain-text versions of pages when available.
+
+Last updated: 2026-02
