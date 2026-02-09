@@ -17,7 +17,7 @@ spa or beauty salon.
 - Location: Andheri West, Mumbai, Maharashtra, India
 - Phone: +91 90045 89987
 - Website: https://wiorawellness.com
-- Contact Page: https://wiorawellness.com/contact-us/
+- Contact Page: https://wiorawellness.com/contact-us
 
 ---
 
@@ -74,7 +74,7 @@ Cosmetic shortcuts and unsafe aesthetic practices are avoided.
 
 Canonical sources for this information:
 - Website (HTML): https://wiorawellness.com
-- Markdown pages: https://wiorawellness.com/?format=md
+- Markdown pages: https://wiorawellness.com?format=md
 - WordPress REST API:
   - https://wiorawellness.com/wp-json/wp/v2/pages
   - https://wiorawellness.com/wp-json/wp/v2/posts
